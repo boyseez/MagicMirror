@@ -3,8 +3,11 @@
 
 	"TODAY": "Oggi",
 	"TOMORROW": "Domani",
+	"DAYAFTERTOMORROW": "Dopodomani",
 	"RUNNING": "Termina entro",
 	"EMPTY": "Nessun evento in arrivo.",
+	
+	"WEEK": "Settimana {weekNumber}",
 
 	"N": "N",
 	"NNE": "NNE",
@@ -22,4 +25,8 @@
 	"WNW": "WNW",
 	"NW": "NW",
 	"NNW": "NNW"
+	
+	"UPDATE_NOTIFICATION": "MagicMirror² aggiornamento disponibile.",
+	"UPDATE_NOTIFICATION_MODULE": "Aggiornamento disponibile per il modulo: MODULE_NAME.",
+	"UPDATE_INFO": "L'installazione corrente è COMMIT_COUNT del ramo BRANCH_NAME."
 }
